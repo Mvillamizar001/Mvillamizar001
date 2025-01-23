@@ -1,8 +1,7 @@
 # 💫 About Me:
 
 ✨ I’m currently working on:
-Helping customers find the best tech solutions at Best Buy using SAP & Oracle NetSuite for inventory management
-Exploring cloud management and IT risk strategies in my Master’s program
+Applying the skills from my recently completed Master’s program by exploring cloud management, IT risk strategies, and actively working on applications while continuing to learn and grow every day.
 
 🚀 I’m looking to collaborate on:
 Projects that use cloud tech and data management to drive digital transformation
