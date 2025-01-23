@@ -1,5 +1,27 @@
 # 💫 About Me:
-I am a bilingual technology professional with a strong passion for innovation and problem-solving. Currently, I'm pursuing my Master's in Information Systems at Wilmington University, specializing in bridging the gap between business needs and technology-driven solutions. My experience spans IT consulting, customer service, and systems optimization, where I’ve consistently delivered impactful results.<br><br>Fluent in both English and Spanish, I thrive in collaborative environments and excel at connecting across cultures and industries. I am committed to continuous learning and staying ahead of trends in the fast-paced tech landscape.<br><br>Outside of work, I am deeply creative, contributing to dynamic projects and strategizing ways to enhance user experiences. I firmly believe in technology's power to transform lives and am excited to collaborate with others who share this vision.<br><br>I am currently working on:<br>I am currently working as a Technical Sales Advisor at Best Buy, where I assist customers with technology recommendations, troubleshoot product issues, and utilize systems like SAP and Oracle NetSuite for inventory management. In addition, I am enhancing my expertise in cloud management and IT project risk management through my studies in my Master's program.<br><br>I am looking to collaborate on:<br>I am looking to collaborate on projects that leverage cloud technologies and data management to drive digital transformation. I am particularly interested in opportunities where I can integrate cutting-edge solutions for systems optimization, security, and cloud infrastructure scaling. I enjoy collaborating in diverse teams and sharing insights from both business and technical perspectives.<br><br>I am looking to help with:<br>I am eager to help organizations improve their IT infrastructure and cybersecurity measures, using my skills in data analysis, cloud services (AWS, Azure, Google Cloud), and networking technologies. Whether it's streamlining workflows, optimizing IT systems, or helping teams adopt best practices, I’m passionate about driving operational efficiency and innovation.<br><br>I am currently learning in this part of my career:<br>I am currently learning how to integrate advanced project management tools and enhance my skills in cloud services to better support scalable IT solutions. Additionally, I’m deepening my understanding of data management systems like SQL and PostgreSQL to design solutions that handle large datasets more efficiently. My coursework in IT policy and strategy is shaping my ability to align IT strategies with business goals.<br><br><br>
+
+✨ I’m currently working on:
+Helping customers find the best tech solutions at Best Buy using SAP & Oracle NetSuite for inventory management
+Exploring cloud management and IT risk strategies in my Master’s program
+
+🚀 I’m looking to collaborate on:
+Projects that use cloud tech and data management to drive digital transformation
+Optimizing IT systems, security, and scalable infrastructure for innovative solutions
+
+🤝 I’m looking for help with:
+Integrating advanced project management tools
+Deepening my expertise in cloud platforms (AWS, Azure, Google Cloud)
+
+📚 I’m currently learning:
+How to design efficient systems for large datasets using SQL & PostgreSQL
+Aligning IT strategies with business goals through IT policy and strategy coursework
+
+💡 Ask me about:
+How tech can improve user experiences
+Tips for getting started with cloud services or data analysis
+
+🎉 Fun Fact:
+Fluent in both English and Spanish, I thrive in diverse environments and love collaborating across cultures!
 
 
 ## 🌐 Socials:
